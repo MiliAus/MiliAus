@@ -8,11 +8,6 @@ Pleaese feel free to send me an invite to a repo or project so we can collaborat
 <a href="https://www.linkedin.com/in/all09/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-
-
 <p align="center">
 Check out my stats for the year:rocket:
 

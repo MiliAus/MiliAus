@@ -7,7 +7,7 @@ Pleaese feel free to send me an invite to a repo or project so we can collaborat
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/all09/)
 
 
-<a href="https://www.linkedin.com/in/all09/"><img src="[https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
+<a href="https://www.linkedin.com/in/all09/"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>
 
 
 

@@ -12,6 +12,7 @@ Please feel free to send me an invite to a repo or project so we can collaborate
 Check out my stats for the year:rocket:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=miliaus&show_icons=true) 
+<img src="https://github-readme-stats.vercel.app/api?username=miliaus&show_icons=true"></a>
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=miliaus)
 </p>
 

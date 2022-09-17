@@ -2,8 +2,10 @@
 ---
 I'm Austin Leverett, a platform engineer who loves coding and learning new tech.
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=miliaus)&nbsp;&nbsp;
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/all09/)
+![Profile View Counter](https://komarev.com/ghpvc/?username=miliaus)&nbsp;&nbsp; 
+
+<img src="[{BadgeURLHere}](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
+(https://www.linkedin.com/in/all09/)
 
 
 --------

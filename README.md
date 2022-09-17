@@ -1,6 +1,7 @@
 # Hi! Welcome to my Github!
 ---
 I'm Austin Leverett, a platform engineer who loves coding and learning new tech.
+![Profile View Counter](https://komarev.com/ghpvc/?username=miliaus)
 
 
 --------

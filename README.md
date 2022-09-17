@@ -11,7 +11,7 @@ Please feel free to send me an invite to a repo or project so we can collaborate
 <p align="center">
 Check out my stats for the year:rocket:
 
-<img src="https://github-readme-stats.vercel.app/api?username=miliaus&show_icons=true" height="235"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=miliaus&show_icons=true" width="235" height="235"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miliaus" height="235"></a>
 </p>
 

@@ -11,9 +11,6 @@
 <p align="center">
 Check out my stats for the year:rocket:
 
-<img src="https://github-readme-stats.vercel.app/api?username=miliaus&show_icons=true" height="200"></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miliaus" height="200"></a>
-</p>
 
 
 

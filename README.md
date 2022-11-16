@@ -1,10 +1,11 @@
-# Hi! Welcome to my Github!
----
+
+![Logo](https://github.com/MiliAus/MiliAus/blob/632731bc426dc0505498c2487e2e3846648c6631/Group%2024.png)
+
+
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=miliaus)&nbsp;&nbsp;
 [![Austin Leverett - Linkedin](https://img.shields.io/badge/Austin_Leverett-Linkedin-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/all09/)
 
-### I'm Austin Leverett, a platform engineer who loves learning new tech.<br> 
-### Please feel free to send me an invite to a repo or project so we can collaborate 😄
 
 
 

@@ -5,7 +5,7 @@
 
 
 ## About Me
-I'm a Software Engineer, Devops person, and general technology tinker.
+I'm a Software Engineer, Devops person, and general technology tinkerer.
 
 
 

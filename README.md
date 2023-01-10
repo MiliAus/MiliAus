@@ -10,16 +10,16 @@ I'm a Software Engineer, Devops person, and general technology tinkerer.
 
 
 ## 🛠 Skills
-RHEL, Javascript, HTML, CSS, Vue, Python, Bash...
+RHEL, Javascript, HTML, CSS, Vue, Python, Bash, Openshift, K8s
 ![Logo](https://github.com/MiliAus/MiliAus/blob/cd4cd54f0d70065b5b24a3b176a4306a7e540b3a/tech%20stack.png)
 
 
 ## Stuff I'm working on
 👩‍💻 I'm currently working on [Umbrella Developer Group](https://github.com/Umbrella-Developer-Group) apps!
 
-🧠 I'm currently learning frameworks and all of the above
+🧠 I'm currently learning Vue.js, Openshift, and cloud technology!
 
-👯‍♀️ I'm looking to collaborate on anything!
+👯‍♀️ I'm looking to collaborate on devops processes, automation, and idea brainstorming!
 
 
 

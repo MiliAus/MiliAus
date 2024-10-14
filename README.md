@@ -5,7 +5,7 @@
 
 
 ## About Me
-I'm a Software Engineer, Devops person, and general technology tinkerer.
+I'm a Platform Engineer with an interest in frontend, and all things tech.
 
 
 
@@ -15,9 +15,6 @@ RHEL, Javascript, HTML, CSS, Vue, Python, Bash, Openshift, K8s
 
 
 ## Stuff I'm working on
-👩‍💻 I'm currently working on [Umbrella Developer Group](https://github.com/Umbrella-Developer-Group) apps!
-
-🧠 I'm currently learning Vue.js, Openshift, and cloud technology!
 
 👯‍♀️ I'm looking to collaborate on devops processes, automation, and idea brainstorming!
 

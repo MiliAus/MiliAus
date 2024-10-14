@@ -5,7 +5,7 @@
 
 
 ## About Me
-I'm a Platform Engineer with an interest in frontend, and all things tech.
+I'm a Platform Engineer with an interest in frontend, and all things tech..
 
 
 
